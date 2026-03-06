@@ -1,4 +1,4 @@
-# uber-real-time-data-engineering-pipeline
+
 # Uber Real-Time Data Engineering Pipeline 🚀
 
 This project demonstrates an **end-to-end real-time data engineering pipeline** built using **Azure Databricks, Delta Lake, and PySpark** following the **Lakehouse architecture**.
